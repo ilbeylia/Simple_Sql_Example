@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\Simple_Sql_Example\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE444947-B2DB-465F-8BB2-73852307BE57}|Simple_Sql_Example.csproj|a:\\simple_sql_example\\personpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DE444947-B2DB-465F-8BB2-73852307BE57}|Simple_Sql_Example.csproj|solutionrelative:personpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE444947-B2DB-465F-8BB2-73852307BE57}|Simple_Sql_Example.csproj|a:\\simple_sql_example\\personpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE444947-B2DB-465F-8BB2-73852307BE57}|Simple_Sql_Example.csproj|solutionrelative:personpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE444947-B2DB-465F-8BB2-73852307BE57}|Simple_Sql_Example.csproj|a:\\simple_sql_example\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE444947-B2DB-465F-8BB2-73852307BE57}|Simple_Sql_Example.csproj|solutionrelative:databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE444947-B2DB-465F-8BB2-73852307BE57}|Simple_Sql_Example.csproj|a:\\simple_sql_example\\cbspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE444947-B2DB-465F-8BB2-73852307BE57}|Simple_Sql_Example.csproj|solutionrelative:cbspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE444947-B2DB-465F-8BB2-73852307BE57}|Simple_Sql_Example.csproj|a:\\simple_sql_example\\cbspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DE444947-B2DB-465F-8BB2-73852307BE57}|Simple_Sql_Example.csproj|solutionrelative:cbspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE444947-B2DB-465F-8BB2-73852307BE57}|Simple_Sql_Example.csproj|a:\\simple_sql_example\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DE444947-B2DB-465F-8BB2-73852307BE57}|Simple_Sql_Example.csproj|solutionrelative:homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE444947-B2DB-465F-8BB2-73852307BE57}|Simple_Sql_Example.csproj|a:\\simple_sql_example\\simple_sql_example.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DE444947-B2DB-465F-8BB2-73852307BE57}|Simple_Sql_Example.csproj|solutionrelative:simple_sql_example.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE444947-B2DB-465F-8BB2-73852307BE57}|Simple_Sql_Example.csproj|a:\\simple_sql_example\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DE444947-B2DB-465F-8BB2-73852307BE57}|Simple_Sql_Example.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonPage.xaml.cs",
+              "DocumentMoniker": "A:\\Simple_Sql_Example\\PersonPage.xaml.cs",
+              "RelativeDocumentMoniker": "PersonPage.xaml.cs",
+              "ToolTip": "A:\\Simple_Sql_Example\\PersonPage.xaml.cs",
+              "RelativeToolTip": "PersonPage.xaml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAmwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:41:28.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonPage.xaml",
+              "DocumentMoniker": "A:\\Simple_Sql_Example\\PersonPage.xaml",
+              "RelativeDocumentMoniker": "PersonPage.xaml",
+              "ToolTip": "A:\\Simple_Sql_Example\\PersonPage.xaml",
+              "RelativeToolTip": "PersonPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-22T13:38:07.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "A:\\Simple_Sql_Example\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "DatabaseManager.cs",
+              "ToolTip": "A:\\Simple_Sql_Example\\DatabaseManager.cs",
+              "RelativeToolTip": "DatabaseManager.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:28:19.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Simple_Sql_Example",
+              "DocumentMoniker": "A:\\Simple_Sql_Example\\Simple_Sql_Example.csproj",
+              "RelativeDocumentMoniker": "Simple_Sql_Example.csproj",
+              "ToolTip": "A:\\Simple_Sql_Example\\Simple_Sql_Example.csproj",
+              "RelativeToolTip": "Simple_Sql_Example.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-22T13:17:21.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CBSPage.xaml.cs",
+              "DocumentMoniker": "A:\\Simple_Sql_Example\\CBSPage.xaml.cs",
+              "RelativeDocumentMoniker": "CBSPage.xaml.cs",
+              "ToolTip": "A:\\Simple_Sql_Example\\CBSPage.xaml.cs",
+              "RelativeToolTip": "CBSPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:20:07.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "A:\\Simple_Sql_Example\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "A:\\Simple_Sql_Example\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-22T10:10:11.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "A:\\Simple_Sql_Example\\HomePage.xaml",
+              "RelativeDocumentMoniker": "HomePage.xaml",
+              "ToolTip": "A:\\Simple_Sql_Example\\HomePage.xaml",
+              "RelativeToolTip": "HomePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-22T10:09:45.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CBSPage.xaml",
+              "DocumentMoniker": "A:\\Simple_Sql_Example\\CBSPage.xaml",
+              "RelativeDocumentMoniker": "CBSPage.xaml",
+              "ToolTip": "A:\\Simple_Sql_Example\\CBSPage.xaml",
+              "RelativeToolTip": "CBSPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-22T10:09:32.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
